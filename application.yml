@@ -9,9 +9,3 @@ spring:
     hibernate:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/patidarvjy/microservices-course-on-youtube-config-store
