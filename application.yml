@@ -14,4 +14,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/patidarvjy/microservices-course-on-youtube-config-store.git
+          uri: https://github.com/patidarvjy/microservices-course-on-youtube-config-store
