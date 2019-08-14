@@ -3,7 +3,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNotExist=true
     username: postgres
-    password: hrhk
+    password: hrhk@113
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
